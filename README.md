@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MayankCod
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Mayank07Patel
+- 👀 I’m interested in Programming and computer science
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Game Development
+- 📫 How to reach me email:- patelmayank0709@gmail.com
 
 <!---
 MayankCod/MayankCod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
